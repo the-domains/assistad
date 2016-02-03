@@ -1,0 +1,28 @@
+name: assistad
+favicon: null
+layout_spectrum: 0.9776838440448046
+typography_spectrum: 0.2988469582051039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.037755921483039856
+  lightness: 0.8935424732044339
+  saturation: 0.6565003951545805
+  rhythmicContrast: 0.3665708804037422
+purpose: []
