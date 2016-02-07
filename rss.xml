@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[assistad]]></title>
+        <description><![CDATA[assistad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 04:56:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>All of our AdWords Management Packages include a customised professional setup, multiple AdWords campaign strategies, full and ongoing support and access to top experts.</p>]]></description>
+            <link>undefined5d0fb230-3cff-4113-81db-12f987bac0c6/index.html</link>
+            <guid isPermaLink="false">5d0fb230-3cff-4113-81db-12f987bac0c6</guid>
+            <pubDate>Sun, 07 Feb 2016 04:56:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
