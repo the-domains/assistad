@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[assistad]]></title>
         <description><![CDATA[assistad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/assistad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 04:56:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 05:00:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/assistad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/assistad/11416d40-ec5a-41d5-9fad-391a8de00f58/index.html</link>
+            <guid isPermaLink="false">11416d40-ec5a-41d5-9fad-391a8de00f58</guid>
+            <pubDate>Sun, 07 Feb 2016 04:59:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>All of our AdWords Management Packages include a customised professional setup, multiple AdWords campaign strategies, full and ongoing support and access to top experts.</p>]]></description>
-            <link>undefined5d0fb230-3cff-4113-81db-12f987bac0c6/index.html</link>
+            <link>https://thegrid.ai/assistad/5d0fb230-3cff-4113-81db-12f987bac0c6/index.html</link>
             <guid isPermaLink="false">5d0fb230-3cff-4113-81db-12f987bac0c6</guid>
             <pubDate>Sun, 07 Feb 2016 04:56:50 GMT</pubDate>
         </item>
