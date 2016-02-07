@@ -4,8 +4,14 @@
         <description><![CDATA[assistad]]></description>
         <link>https://thegrid.ai/assistad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 05:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 05:00:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/assistad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/assistad/183b25a0-1c93-4849-aef2-59d3c1fe5892/index.html</link>
+            <guid isPermaLink="false">183b25a0-1c93-4849-aef2-59d3c1fe5892</guid>
+            <pubDate>Sun, 07 Feb 2016 05:00:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://thegrid.ai/assistad/08fbf3f8-a6ba-4f07-879e-7c15c2f1c52a/index.html</link>
